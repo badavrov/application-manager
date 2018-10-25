@@ -1,0 +1,17 @@
+.regLink{
+    color: rgb(0, 0, 0);
+    padding: 14px 25px;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.home_div{
+    text-align: center;
+}
+
+.regLink:hover {
+    color: rgb(255, 255, 255);
+    background-color:black;
+}
